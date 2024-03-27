@@ -3,16 +3,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://www.youtube.com/channel/UC-qva9AROcjLMHC72pf23uw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -26,19 +16,27 @@
 
 ###
 
-<img align="left" height="300" src="https://www.thorpepark.com/media/kyqcvoec/thorpe-park-saw-the-ride-3.png?anchor=center&mode=crop&format=webp&quality=100&width=1920"  />
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<img align="left" height="350" src="https://www.thorpepark.com/media/kyqcvoec/thorpe-park-saw-the-ride-3.png?anchor=center&mode=crop&format=webp&quality=100&width=1920"  />
 
 ###
 
 <div align="center">
   <img height="500" src="https://pbs.twimg.com/media/GFSPAMDWMAA29B9?format=jpg&name=large"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EvaLockhart/EvaLockhart/output/snake.svg" alt="Snake animation" />
 
 ###
 
