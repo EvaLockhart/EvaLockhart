@@ -30,7 +30,7 @@
 
 ###
 
-<img align="left" height="720" src="https://www.thorpepark.com/media/kyqcvoec/thorpe-park-saw-the-ride-3.png?anchor=center&mode=crop&format=webp&quality=100&width=1280"  />
+<img align="left" height="576" src="https://www.thorpepark.com/media/kyqcvoec/thorpe-park-saw-the-ride-3.png?anchor=center&mode=crop&format=webp&quality=100&width=1024"  />
 
 ###
 
