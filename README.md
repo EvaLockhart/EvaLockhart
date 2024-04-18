@@ -30,7 +30,9 @@
 
 ###
 
-<img align="left" height="350" src="https://tenor.com/en-GB/view/thorpe-park-ghost-train-believer-chertsey-rune-gif-1849557449818026558"  />
+<img align="left" height="1080" src="https://www.thorpepark.com/media/kyqcvoec/thorpe-park-saw-the-ride-3.png?anchor=center&mode=crop&format=webp&quality=100&width=1920"  />
+
+###
 
 
 ###
