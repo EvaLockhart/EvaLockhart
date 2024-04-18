@@ -1,4 +1,4 @@
-<h2 align="left">Hi Hi! My name is Oli and I'm a Legoland Ride OP, from England</h2>
+<h2 align="left">Hi Hi! My name is Oli and I'm a Legoland Ride OP, from the UK</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with:</h2>
 
 ###
 
@@ -30,13 +30,8 @@
 
 ###
 
-<img align="left" height="350" src="https://www.thorpepark.com/media/kyqcvoec/thorpe-park-saw-the-ride-3.png?anchor=center&mode=crop&format=webp&quality=100&width=1920"  />
+<img align="left" height="350" src="https://tenor.com/cmM9IgvHbc2.gif"  />
 
-###
-
-<div align="center">
-  <img height="500" src="https://pbs.twimg.com/media/GFSPAMDWMAA29B9?format=jpg&name=large"  />
-</div>
 
 ###
 
